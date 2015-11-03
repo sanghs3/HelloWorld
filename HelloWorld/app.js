@@ -1,6 +1,6 @@
 
 /**
- * Module dependencies.
+ * Module Shan.
  */
 
 var express = require('express')
