@@ -1,6 +1,6 @@
 
 /**
- * Module Shan.
+ * Module S.
  */
 
 var express = require('express')
