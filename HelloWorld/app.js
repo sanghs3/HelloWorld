@@ -1,7 +1,7 @@
 
 /**
 
- * Module Sdd.
+ * Module   vSdd.
  */
 
 var express = require('express')
